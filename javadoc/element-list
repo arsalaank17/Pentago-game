@@ -1,0 +1,15 @@
+clientside
+clientside.client
+clientside.dataflow
+commands
+gamelogic
+gamelogic.board
+gamelogic.computer
+gamelogic.exception
+gamelogic.game
+gamelogic.player
+gamelogic.test
+serverside
+serverside.clienthandler
+serverside.gamehandler
+serverside.server
